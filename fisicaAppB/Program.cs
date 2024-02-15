@@ -83,7 +83,6 @@ double Torricelli()
 int escolha = 0;
 do
 {
-    //ALÇKSJDHAklduhLDHoiad
     escolha = Menu();
 
     if(escolha == 1) // velocidade media
